@@ -111,3 +111,14 @@ form textarea{
 iframe{
     width: 100%;
 }
+.rodape{
+    background-color: #c4c4c4;
+
+}
+.img-redes{
+    justify-content: right;
+}
+.redes-sociais{
+    height: 50px;
+    width: 50px;
+}
